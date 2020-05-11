@@ -1,0 +1,36 @@
+# Pathway	demo_Coverage
+UNMAPPED	1.0000000000
+UNINTEGRATED	1.0000000000
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_dorei	1.0000000000
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_vulgatus	1.0000000000
+UNINTEGRATED|unclassified	1.0000000000
+PWY-6305: putrescine biosynthesis IV	0.9999818077
+PWY-6305: putrescine biosynthesis IV|unclassified	0.9401999667
+PWY-4203: volatile benzenoid biosynthesis I (ester formation)	0.9992342795
+PWY-4203: volatile benzenoid biosynthesis I (ester formation)|unclassified	0.6687522557
+PWY490-3: nitrate reduction VI (assimilatory)	0.9990091413
+PWY490-3: nitrate reduction VI (assimilatory)|unclassified	0.6313428688
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I	0.9971350238
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|unclassified	0.4525574805
+PWY-5173: superpathway of acetyl-CoA biosynthesis	0.9953786390
+PWY-5173: superpathway of acetyl-CoA biosynthesis|unclassified	0.2231965843
+PWY-3781: aerobic respiration I (cytochrome c)	0.9883574322
+PWY-3781: aerobic respiration I (cytochrome c)|unclassified	0.2386440470
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)	0.9883574322
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|unclassified	0.2386440470
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)	0.9758638930
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|unclassified	0.1298955860
+PWY-7446: sulfoglycolysis	0.9577129614
+PWY-7446: sulfoglycolysis|unclassified	0.0752691524
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)	0.7207907282
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_vulgatus	0.8530604195
+PWY-6700: queuosine biosynthesis	0.6455792840
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_dorei	0.7174602357
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	0.3658792748
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_vulgatus	0.4018667593
+VALSYN-PWY: L-valine biosynthesis	0.3658792748
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus	0.4018667593
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation	0.2871772159
+PWY-5097: L-lysine biosynthesis VI	0.2369937137
+PWY-2942: L-lysine biosynthesis III	0.2184471947
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	0.1747741629

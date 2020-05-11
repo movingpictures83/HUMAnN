@@ -1,0 +1,2 @@
+Prefix plugins/HUMAnN/example/
+Plugin HUMAnN inputfile demo.fastq outputfile demo
